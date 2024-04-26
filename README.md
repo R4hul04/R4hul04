@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Parande</h1>
 <h3 align="center">A passionate Software Developer and Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/R4hul04](https://github.com/R4hul04)
 
