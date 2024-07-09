@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahulparande2000@gmail.com**
 
-- My Portfolio - [https://portfolio-r4hul04s-projects.vercel.app/](Portfolio)
+- My Portfolio - [Portfolio](https://portfolio-r4hul04s-projects.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
