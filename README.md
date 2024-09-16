@@ -22,5 +22,5 @@
 
 [comment]: <> (<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=r4hul04&show_icons=true&locale=en&layout=compact" alt="r4hul04" /></p>)
 
-<h3 align="left">Leetcode Stats</h3>
-<p><img align="center" src="https://leetcard.jacoblin.cool/rparande?theme=dark&font=Zen%20Antique&ext=heatmap" /></p>
+[comment]: <> <h3 align="left">Leetcode Stats</h3>
+[comment: <> <p><img align="center" src="https://leetcard.jacoblin.cool/rparande?theme=dark&font=Zen%20Antique&ext=heatmap" /></p>
